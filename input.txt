@@ -1,0 +1,27 @@
+3
+5
+X H X H X
+H X H X H
+X H X A X
+H A H X H
+X H X H X
+8
+X X H X H X H H
+H H H X H H X H
+X H H H X C H H
+H A X H H H H X
+H X X H X H X H
+H H H X B X H H
+X X H X H H X H
+H H H H X X X H
+10
+X H H H X H H H H X
+X H X H H H X X H X
+H C H X A X H C H H
+H H X X H H X H X H
+X H H X H X X X X X
+X X A H H A X X X B
+H X H H X H X H X H
+H X X H X H X H H H
+H H X H H B H H H X
+C H H H X H X H H C
